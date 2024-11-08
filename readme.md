@@ -1,7 +1,3 @@
-Here’s a template for a README file for your Hypothesis Testing GitHub repository:
-
----
-
 # Hypothesis Testing
 
 This repository contains Python code for performing hypothesis testing using Jupyter Notebook. It provides a practical guide for applying statistical tests to validate hypotheses with sample data.
